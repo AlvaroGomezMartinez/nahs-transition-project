@@ -1,0 +1,6 @@
+# Ignore everything in subfolders
+**
+
+# But allow top-level <div class="mb-3">
+!*.js
+!appscript.json
